@@ -28,13 +28,6 @@ Somos una organizacion de desarrollo formada por estudiantes y desarrolladores a
 
 <code>JavaScript</code> <code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Node.js</code> <code>Python</code> <code>Docker</code> <code>PostgreSQL</code> <code>Supabase</code> <code>Vercel</code> <code>GitHub Actions</code> <code>AI/ML</code> <code>Tailwind CSS</code> <code>Go</code> <code>Rust</code>
 
-## Proyectos
-
-| Proyecto | Descripcion | Stack |
-|----------|-------------|-------|
-| [DevLabs-Web](https://github.com/DevLabs-Team/DevLabs-Web) | Sitio web oficial de la organizacion | HTML, CSS, JS |
-| [Deskly](https://github.com/ElMarcels/deskly) | Dashboard de estudio cyberpunk con IA | Next.js, Supabase, Tailwind |
-
 ## Como unirse
 
 1. Entra a [nuestra pagina web](https://devlabs.elmarcels.xyz)
