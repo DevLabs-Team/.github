@@ -1,5 +1,3 @@
-// Español
-
 <div align="center">
 
 # \<DL/\> DevLabs Team
