@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-devlabs.elmarcels.xyz-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devlabs.elmarcels.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-DevLabs--Team-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevLabs-Team)
 
-[English README]()
+[README Español](https://github.com/DevLabs-Team/.github/blob/main/profile/README.md) [English README]()
 
 </div>
 
